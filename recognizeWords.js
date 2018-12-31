@@ -33,4 +33,4 @@ automata.setNode = node2;
 automata.setNode = node3;
 automata.setNode = node4;
 
-console.log(automata.checkValid('BYE'));
+console.log(automata.initSearch('BYE'));

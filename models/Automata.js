@@ -12,7 +12,7 @@ class Automata {
     }
 
     initSearch(data){
-        return checkValid(data);
+        return this.checkValid(data);
     }
 
     checkValid(data){
